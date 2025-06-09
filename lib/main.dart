@@ -4,11 +4,11 @@ import 'package:praktek2/josh/Provider/navigation.dart';
 import 'package:praktek2/josh/Provider/Bookmarkpro.dart';
 import 'package:praktek2/josh/Provider/navpro.dart';
 import 'package:provider/provider.dart';
-import 'Provider/infomation provider/profauna.dart';
-import 'Provider/infomation provider/proflora.dart';
-import 'Provider/infomation provider/prolake.dart';
-import 'Provider/infomation provider/promountain.dart';
-import 'Provider/infomation provider/proriver.dart';
+import 'josh/Provider/infomation provider/profauna.dart';
+import 'josh/Provider/infomation provider/proflora.dart';
+import 'josh/Provider/infomation provider/prolake.dart';
+import 'josh/Provider/infomation provider/promountain.dart';
+import 'josh/Provider/infomation provider/proriver.dart';
 
 void main() {
   runApp(
